@@ -1,0 +1,182 @@
+body{
+	background-color: #E0E4EE;
+	margin: 0;
+	padding: 0;
+}
+.header{
+	background-color: #3b5998;
+	height: 82px;
+	width: 100%;
+}
+.header-left{
+	font-size: 40px;
+	position: absolute;
+	top: 19px;
+	left: 180px;
+	color: #FFFFFF;
+	font-family: Helvetica, Arial, sans-serif; 
+	cursor: pointer; 
+}	
+.header-right-email{
+	position: absolute;
+	right: 490px;
+	top: 12px;
+	font-size: 12px;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #FFFFFF;
+	cursor: pointer;
+}
+.header-right-pass{
+	position: absolute;
+	right: 360px;
+	top: 12px;
+	font-size: 12px;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #FFFFFF;
+	cursor: pointer;
+}
+.header-right{
+	position: absolute;
+	right: 103px;
+	top: 33px;
+}
+.header-right-input-email{
+	width: 150px;
+	height: 20px;
+	border: .5px solid black;
+}
+.header-right-input-pass{
+	width: 150px;
+	height: 20px;
+	border: .5px solid black;
+	margin-left: 5px;
+}	
+.header-right-input-submit{
+	height: 22px;
+	background: #4267b2;
+	color: #FFFFFF;
+	border: .5px solid #29487d;
+	cursor: pointer;
+}
+.header-right-input-submit:hover{
+	height: 22px;
+	background: #365899;
+	color: #FFFFFF;
+	border: .5px solid #29487d;
+	cursor: pointer;
+}
+.Forgotten{
+	color: #8cb4c4;
+	text-decoration: none;
+	position: relative;
+	top: 22px;
+	left: -208px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 12px;
+}
+.Forgotten:hover{
+	text-decoration: underline;
+}
+.left{
+	width: 55%;
+	position: absolute;
+	top: 22%;
+	left: 13.2%;
+}
+.left-body{
+	font-size: 20px;
+	width: 300px;
+	color: #0e385f;
+	font-family: Helvetica, Arial, sans-serif;
+}	
+img{
+	margin: 96px 0px 0px 180px;
+}
+
+.right{
+	width: 45%;
+	position: absolute;
+	top: 19%;
+	left: 56%;
+}
+.span1{
+	font-family: Helvetica, Arial, sans-serif;
+	color: #333333;
+	font-size: 40px;
+}
+.span2{
+	font-family: Helvetica, Arial, sans-serif;
+	color: #333333;
+	font-size: 20px;
+}
+.input-first-name{
+	height: 30px;
+	width: 176px;
+	border-radius: 5px;
+	border: 1px;
+	font-size: 18px;
+	padding: 6px 8px;
+}
+.input-surname{
+	height: 30px;
+	width: 176px;
+	border-radius: 5px;
+	border: 1px;
+	left: 5px;
+	font-size: 18px;
+	padding: 6px 8px;
+	margin-left: 5.7px;
+}		
+.input-mobile-email{
+	height: 30px;
+	width: 378px;
+	border-radius: 5px;
+	border: 1px;
+	font-size: 18px;
+	padding: 6px 8px;
+	margin-top: 10px;
+}
+.input-new-pass{
+	height: 30px;
+	width: 378px;
+	border-radius: 5px;
+	border: 1px;
+	font-size: 18px;
+	padding: 6px 8px;
+	margin-top: 10px;
+}
+.birthday{
+	font-size: 18px;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #90949c;
+}
+select{
+	height: 30px;
+	width: 55px;
+	padding: 6px;
+	font-size: 13px;
+}
+.gender{
+	font-size: 18px;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #90949c;
+}
+.a{
+	background-color: #FFFFFF;
+	font-size: 16px;
+}
+.input-sign-up{
+	height: 35px;
+	width: 194px;
+	background-color: #578843;
+	border-radius: 5px;
+	border: 1px;
+	font-size: 19px;
+	padding: 7px 20px;
+	font-weight: bold;
+	color: #FFFFFF;
+}	
+.input-sign-up:hover{
+	background: #5e994b;
+	cursor: pointer;
+}
